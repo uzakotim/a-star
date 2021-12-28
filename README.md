@@ -1,1 +1,2 @@
-# A-star
+# A-star algorithm, 
+# written in Python
